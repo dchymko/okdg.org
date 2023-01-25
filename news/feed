@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:admin="http://webns.net/mvcb/"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+	<channel>
+		<title>okdg.org</title>
+
+		<link>http://okdg.org/</link>
+		<description>Okanagan Developer Group - News</description>
+		<dc:language>en-ca</dc:language>
+		<dc:creator>hello at okdg dot org</dc:creator>
+
+		<dc:rights>Copyright 2023 OKDG</dc:rights>
+
+					<item>
+				<title>2014&#45;15 Agenda</title>
+				<link>http://okdg.org/news/2014-15_agenda</link>
+				<guid>http://okdg.org/news/2014-15_agenda</guid>
+				<description><![CDATA[ <p>6 years. That is how long the Okanagan Developer's Group has been going. Think of how the technology community in the Okanagan has changed since then? We have many newcomers to the valley, a ton of new companies, some successful exits, and a ton of new events servicing all aspects of technology that you can see at Digital Okanagan's <a href="http://www.meetup.com/DigitalOkanagan/" title="Digital Okanagan - Technology and Creative Community Events (Kelowna, BC) - Meetup">Okanagan Tech & Creative Community Events Meetup group</a>.</p>
+
+<p>Last year was amazing for OKDG consistency. We had events <em>every</em> month, from September to May. We also did well at starting events on time and keeping speakers to an 18 minute time limit. What will we do for this year?</p>
+
+//home//
+
+<p>At the end of the season we circulated a community survey to see what the community wanted out of OKDG. Questions covered relevancy, frequency, content, and structure. The general takeaways from the community feedback are:</p>
+
+<ul>
+<li>be more development focused</li>
+<li>start earlier</li>
+<li>move RSVPs and event info to Meetup</li>
+<li>redo the website</li>
+</ul>
+
+<p>With this in mind, for the 2014-15 year, we are going to try and make OKDG more of an event. This means less frequency (ie. we will only hold an event when there is something important to discuss), and diving more in depth on development topics (ie. only one speaker per evening, with a longer time). Also, we will start closer to dinner time. Hopefully we will get bigger groups out to hear and discuss deeper topics. As for a new website, well, that is still on the table. Any volunteers?</p>
+
+<p>Our next event will be announced soon. In the meantime, please sign up to the <a href="http://www.meetup.com/DigitalOkanagan/" title="Digital Okanagan - Technology and Creative Community Events (Kelowna, BC) - Meetup">DO Meetup group</a>, and  follow <a href="https://twitter.com/okdg" title="OKDG (@okdg) | Twitter">OKDG on Twitter</a> for the latest. If you have a topic idea, please let us know.</p> ]]></description>
+				<pubDate>Thu, 02 Oct 2014 09:20:33 -0700</pubDate>
+			</item>
+					<item>
+				<title>Summer 2014 Break</title>
+				<link>http://okdg.org/news/summer_2014_break</link>
+				<guid>http://okdg.org/news/summer_2014_break</guid>
+				<description><![CDATA[ <p>OKDG's 5th season has come to an end. We expect to have a gathering sometime this summer to discuss how Season 6 will progress, and maybe have a hackathon for the new website. If you are interested in that conversation, please reach out! Otherwise, have a great summer!</p> ]]></description>
+				<pubDate>Tue, 17 Jun 2014 11:19:54 -0700</pubDate>
+			</item>
+					<item>
+				<title>Obligatory Spring Has Sprung Wrap&#45;up Post</title>
+				<link>http://okdg.org/news/obligatory_spring_has_sprung_wrapup_post</link>
+				<guid>http://okdg.org/news/obligatory_spring_has_sprung_wrapup_post</guid>
+				<description><![CDATA[ <p>Nerdy friends and colleagues from around the Okanagan crowded The Bike Shop Cafe on the night of April 24th to watch the OKDG's presenters, graphic design maven John van der Woude and prolific photographer Shawn Talbot talk about their passions. We'd be putting it lightly calling it an <b>absolutely stellar evening</b>.</p>//home//
+
+<img src="http://okdg.org/assets/image/okdg_april2012.jpg" alt="" />
+
+<p>John stepped up first with his presentation entitled "How Hockey Has Made Me a Better Designer", philosophically paralleling the success of writing for his hockey blog to creating purpose driven design in his professional career as a designer. You can get more insights on his presentation <a href="http://jvdwdesigns.com/on-hockey-making-me-a-better-designer">here</a>. </p>
+
+<img src="http://okdg.org/assets/image/johnv_presenting.jpg" alt="" />
+
+<blockquote>It wasn’t all about hockey, but rather more about what I like to call Purpose Driven Design – that every element of every design that I (or any other design) puts together, there’s a purpose to including that element. </blockquote>
+
+<p>Next, Shawn Talbot revved up our visual sensors with a rally of beautiful photography and gave us the inside scoop on some of the stories that surrounded some memorable past photo shoots. He's a creative with a 14 year track record of producing stunning photos and wanted to relay the importance of maintaining a level of quality in the photography that represents each company's brand. </p>
+
+<img src="http://okdg.org/assets/image/shawn_talbot_china.jpg" alt="" />
+
+<blockquote> I spent two evenings with these cormorant fishermen on the Li River near Yangshuo. The light on the bow of the raft attracts the fish and the birds are trained to dive down, catch the fish and bring them back to the fishermen. After catching roughly 8 fish, the birds are trained to expect a reward. If they do not receive one, the birds will simply quit working for
+the night. This is one shot where I did not use any supplemental lighting. This scene was lit entirely by the lanterns.</blockquote> ]]></description>
+				<pubDate>Mon, 07 May 2012 22:29:31 -0700</pubDate>
+			</item>
+					<item>
+				<title>Movember STRIKES Again</title>
+				<link>http://okdg.org/news/movember_strikes_again</link>
+				<guid>http://okdg.org/news/movember_strikes_again</guid>
+				<description><![CDATA[ <p>If you recall OKDG’s successful rendition of the Movember cause at The Many Faces of Movember, not only was it a resounding success for the support of men’s health but an excellent opportunity for Okanagan technology professionals to meet, socialize and learn. This year we hope to repeat that success.</p>
+	<p>The funds raised in Canada support the number one male cancer, prostate cancer. </p>
+	<p>The funds raised are directed to programs run directly by Movember and our men’s health partner, Prostate Cancer Canada. Together, the two channels work together to ensure that Movember funds are supporting a broad range of innovative, world-class programs in line with our strategic goals in the areas of awareness and education, survivorship and research.</p>//home//
+<p>Taken from <a href="http://ca.movember.com/">Movember.com:</a></p>
+
+<blockquote>
+  <p>During November each year, Movember is responsible for the sprouting of moustaches on thousands of men’s faces, in Canada and around the world. With their “Mo’s”, these men raise vital funds and awareness for men's health, specifically prostate cancer.  </p>
+  <p>On Movember 1st, guys register at Movember.com with a clean-shaven face. For the rest of the month, these selfless and generous men, known as Mo Bros, groom, trim and wax their way into the annals of fine moustachery. Supported by the women in their lives, Mo Sistas, Movember Mo Bros raise funds by seeking out sponsorship for their Mo-growing efforts.</p>
+  <p>Mo Bros effectively become walking, talking billboards for the 30 days of November. Through their actions and words, they raise awareness by prompting private and public conversation around the often ignored issue of men’s health. </p>
+  <p>At the end of the month, Mo Bros and Mo Sistas celebrate their gallantry and valor by either throwing their own Movember party or attending one of the infamous Gala Partés held around the world by Movember, for Movember. </p>
+</blockquote>
+
+<p><a href="https://www.movember.com/ca/register/details/team_id/285148">Many OKDG'rs</a> have donated our face to the event and would be honoured if you'd donate. OKDG has always been free with a lot of our members putting a lot of their personal time into presenting, helping out and organizing. You're welcome to show your support with a donation to this great cause. Even a donation of what you'd normally spend on a coffee would make a difference.</p>
+<p>Looking forward to seeing a lot of magnificant ’staches at the next meetup.</p>
+
+<p>Cheers,<br />The OKDG Crew</p> ]]></description>
+				<pubDate>Tue, 01 Nov 2011 14:53:32 -0700</pubDate>
+			</item>
+					<item>
+				<title>OKDG Tech event Calendar</title>
+				<link>http://okdg.org/news/okdg_tech_calendar</link>
+				<guid>http://okdg.org/news/okdg_tech_calendar</guid>
+				<description><![CDATA[ <p>We've had a lot of questions 
+<p>Looking forward to seeing you at the upcoming events.</p>
+<a href="http://bit.ly/gA00Ik">Calendar</a>
+<p>Cheers,<br />The OKDG Crew</p> ]]></description>
+				<pubDate>Wed, 09 Mar 2011 09:00:00 -0800</pubDate>
+			</item>
+					<item>
+				<title>The Many Faces of MOVEMBER</title>
+				<link>http://okdg.org/news/movember_2010</link>
+				<guid>http://okdg.org/news/movember_2010</guid>
+				<description><![CDATA[ <p>As some of you may be aware, the month of November hosts a fund-raising event which raises awareness and helps fight men's prostate cancer. The event is called "Movember" (Mustache + November) and last year alone, Canadian participants and donors raised over 7.8 million (Australia was the only country to raise more). //home//</p>
+
+<p>Taken from <a href="http://ca.movember.com/">Movember.com:</a></p>
+
+<blockquote>
+The idea for Movember was sparked in 2003 over a few beers in Melbourne, Australia.  The plan was simple – to bring the moustache back as a bit of a joke and do something for men’s health. No money was raised in 2003, but the guys behind the Mo realized the potential a moustache had in generating conversations about men’s health.  Inspired by the women around them and all they had done for breast cancer, the Mo Bros set themselves on a course to create a global men’s health movement.  
+</blockquote>
+
+<p><a href="http://ca.movember.com/mospace/779574/">A</a> <a href="http://ca.movember.com/mospace/637054/">few</a> <a href="http://ca.movember.com/mospace/782916/">of</a> <a href="http://ca.movember.com/mospace/326094/">us</a> <a href="http://ca.movember.com/mospace/783606/">OKDG'rs</a> <a href="http://ca.movember.com/mospace/904330/">have</a> donated our face to the event and would be honoured if you'd donate. OKDG has always been free with a lot of our members putting a lot of their personal time into presenting, helping out and organizing. You're welcome to show your support with a donation to this great cause. Even a donation of what you'd normally spend on a coffee would make a difference.</p>
+
+<p><a href="http://twitter.com/dahul">Darren Hull</a> is willing to donate up to $1000 from business head shots to the OKDG team. What an excellent opportunity to get professional head shots while supporting a great cause. <a href="http://darrenhull.com/blog/movemberphotosession-nothiessen-campaign-update-2/">Read more about it, and get in touch with Darren here.</a>
+
+<p><a href="http://ca.movember.com/mospace/326094/">Click here to donate to the 2010 OKDG Movember Team</a></p>
+
+<p>Looking forward to seeing a lot of stash at the next meetup.</p>
+
+<p>Cheers,<br />The OKDG Crew</p> ]]></description>
+				<pubDate>Thu, 04 Nov 2010 13:48:39 -0700</pubDate>
+			</item>
+					<item>
+				<title>Fall Update</title>
+				<link>http://okdg.org/news/fall_update</link>
+				<guid>http://okdg.org/news/fall_update</guid>
+				<description><![CDATA[ <p>Quick update with we're OKDG is currently at. We've been quiet over the last month putting a lot of thought into making sure OKDG is best possible experience for you. One thing that has really bothered us is the inconsistency with the location. //home// The last three events (which have all had amazing turnouts, thank you) have been at three separate locations. Part of which is us being picky (not liking the business feel of a typical boardroom) and partly <a href="/news/the_separative">out of our control</a>.</p>
+
+</p>When it comes to monthly social / educational gatherings consistency is key. Consistent dates on the calendar with a consistent location. We decided to hold off on the September event while talked with the community to find a partner. We're hoping to find someone who can supply an awesome location and service in trade of us supplying 30 - 40 professionals who enjoy a good beer and are passionate about seeing the tech industry thrive in the Okanagan.</p>
+
+<p>Our past locations:</p>
+<ul>
+<li><strong>The Prestige</strong> - Really nice people, but our connection to the space has left.</li>
+<li><strong>The Collective</strong> - <a href="/news/the_separative">Unfortunately wasn't for us.</a></li>
+<li><strong>The Rotary Art Centre</strong> - Great space but no longer available on Tuesdays and at $100 per meetup, It's out of our budget.</li>
+</ul>
+
+<p>As soon as we find a partner you'll be the first to know. We want another meetup as much as you, but we felt rushing into another temporary location wasn't the right decision. That being said, we're taking the positive approach and saying to expect the next meetup to be end of October.</p>
+
+<p>Really appreciate your patience,<br />The OKDG Crew</p>
+
+<p><strong>Update:</strong> Excellent point brought to my attention by @BrentLachman: We have been meeting weekly (announced on Twitter) for #geekbeers. Make sure to follow us to come enjoy a pint. Huge thanks go out to @rlahay, @nickwynja, and @dchymko for consistently pushing for, and attending #geekbeers.</p> ]]></description>
+				<pubDate>Mon, 27 Sep 2010 16:36:47 -0700</pubDate>
+			</item>
+					<item>
+				<title>The Separative</title>
+				<link>http://okdg.org/news/the_separative</link>
+				<guid>http://okdg.org/news/the_separative</guid>
+				<description><![CDATA[ <p>The entire OKDG crew would like to apologize for the meetup being canceled prematurely last night. We were in talks with The Collective since early June setting up arrangements for last night's event. It wasn't until Monday morning (the day before the meetup) that they brought to our attention they would not have a liquor license (as originally agreed upon) and that there were going to be additional charges to OKDG for renting the space. //home// After a few quick communications they decided to give us the space free of charge in lieu of the liquor license.</p>
+
+<p>As a few of you are aware, shortly after 9pm Chris (one of the partners with The Collective) told a few of the attendees he wanted everyone out of the building. After a failed attempt to communicate with Chris (he shut a door in Dustin's face), enquiring about the sudden request to "get out", we were forced to end the evening abruptly.</p>
+
+<blockquote>It takes twenty years to build a reputation and five minutes to ruin it.<br /><span class="pending">– Warren Buffett</span></blockquote>
+
+<p>The Collective has failed to return communication with us since the event and thus lost any future business with OKDG.</p>
+
+<p>To everyone who came out to OKDG for the first time: We're sorry, the evening's mishap was out of our control and we'd love for you to come to any future OKDG events. To our return members, thanks for being incredibly patient, good-humoured, and understanding. To everyone who was going to present at the member showcase, we really apologize that your opportunity evaporated and we'll make sure to set up another showcase.</p>
+
+<p>We feel like OKDG and the tech community have lots of room for growth in the Okanagan. Let's put last night's events to the side and focus on continuing to build kick-ass projects.</p>
+
+<p>Thanks for your understanding,<br />The OKDG Crew</p>
+
+<p><em><strong>Update:</strong> Both Shirlee and Chris from The Collective have appologized for the evening.</em></p> ]]></description>
+				<pubDate>Wed, 28 Jul 2010 17:13:52 -0700</pubDate>
+			</item>
+					<item>
+				<title>First Official OKDG #hacknight</title>
+				<link>http://okdg.org/news/first_okdg_hacknight</link>
+				<guid>http://okdg.org/news/first_okdg_hacknight</guid>
+				<description><![CDATA[ <p>We're planning a way to funnel the energy and talent at OKDG meetups into something more tangible. Taking the approach of "getting things done" we figured what better way than to have a night dedicated to what we do best: designing and building kick-ass products.</p> //home//
+
+<h4>What's so awesome about #hacknight?</h4>
+
+<p>A night with no scheduled presentations or preplanned objectives. A night where your significant other won't understand your excitement to attend. A night where you can talk with unrepressed emotions about ICC profiles, typography, GCC, and NoSQL.</p>
+
+<p><strong>The recipe for #hacknight goes something like this:</strong> show up late afternoon (3pm-ish) with food to BBQ (maybe a dish to share?), your drink of choice, and your medium (laptop, sketchpad, ideas).</p>
+
+<p>After we're done eating, there'll be an allotment of time dedicated to "pitches". Your pitch (if you'd like to pitch) is for you to share a cool idea, or project you think people will want to help out with. After the pitches are done, you choose what you'd like to work on and begin coding, designing, brainstorming, etc with the other people on that project.</p>
+
+<p>Later in the evening (12pm - 1am) there'll be a show and tell where groups demo what they've been working on. Think of it as an evening summer camp for nerd adults with beer (we all loved summer camp).</p>
+
+<p>The <strong>goal of the evening</strong> is to create an environment for people to learn, build projects, meet people, and drink some beverages.</p>
+
+<p>Feel free to follow the progress of the event through <a href="http://twitter.com/okdg">@OKDG</a> (we'll be using the hashtag #hacknight) and send any comments, questions, or suggestions our way. We'll send out an email to all members on <a href="http://okdg.org/members">okdg.org</a> when the date and details are finalized.</p>
+
+<p>Looking forward to seeing you there!<br />
+The OKDG Crew</p> ]]></description>
+				<pubDate>Fri, 11 Jun 2010 16:53:59 -0700</pubDate>
+			</item>
+					<item>
+				<title>May 25th Wrap&#45;Up</title>
+				<link>http://okdg.org/news/may_25_wrap_up</link>
+				<guid>http://okdg.org/news/may_25_wrap_up</guid>
+				<description><![CDATA[ <p>The anticipation and the excitement in the room was intense on Tuesday May 24, 2010 at OKDG's re-birth into the Okanagan tech community. With 40+ attendees crowding the room far beyond capacity, all were primed for the two speakers to follow.</p> //home//
+<p>First off, OKDG leadership&mdash;Dustin Senos, Derrick Pelletier, and Shane Austin set the tone by describing the organization: it&rsquo;s goals, objective and purpose, as well as details on it&rsquo;s past, present, and future.</p>
+<p>Also, and very importantly, the OKDG team announced the unveiling of the the OKDG.org website. The highlights of the new website include a news feed, members section, and events that can be RSVP&rsquo;ed. It was built lovingly on top of CodeIgniter, HTML and many caffeinated (non for Dustin) beverages.</p>
+<p>With the stage set, our honoured speakers were up:</p>
+<p>Aaron De Simone presented on "User Experience + Delight" and Lance Priebe presented on "Perception vs Reality". We will be posting the video of the entire night once we have it edited together.</p>
+<p>The night was a huge success and we'd like to thank the following people for making it rock:</p>
+
+<ul>
+ <li><a href="http://okdg.org/members/byName/28/Brent.Luehr">Brent Luehr</a> (from <a href="http://www.hustream.com/">HuStream</a>)</li>
+ <li><a href="http://okdg.org/members/byName/4/Aaron.DeSimone">Aaron De Simone</a></li>
+ <li><a href="http://okdg.org/members/byName/2/Lance.Priebe">Lance Priebe</a></li>
+</ul>
+
+<p>Once again, thanks to everyone for coming out and taking part. The strength of conversation between the presentations and the open forum you&rsquo;ve created made the attendance worthwhile alone.</p>
+<p>We look forward to seeing you at the <a href="http://okdg.org/events/byTitle/untitled">next event.</a></p> ]]></description>
+				<pubDate>Thu, 03 Jun 2010 10:04:37 -0700</pubDate>
+			</item>
+		
+	</channel>
+</rss>
